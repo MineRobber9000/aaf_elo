@@ -1,3 +1,4 @@
+# from https://github.com/rshk/elo
 from __future__ import division
 
 
