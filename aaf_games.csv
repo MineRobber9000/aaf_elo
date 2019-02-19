@@ -6,3 +6,7 @@ Apollos,Legends,1
 Commanders,Fleet,1
 Iron,Express,1
 Hotshots,Stallions,1
+Iron,Stallions,1
+Express,Hotshots,0
+Commanders,Apollos,0
+Fleet,Legends,1
