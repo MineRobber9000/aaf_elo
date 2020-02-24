@@ -1,3 +1,7 @@
+# NOTICE
+
+As the AAF is no more, I've decided to archive this repository.
+
 # aaf_elo
 
 Elo ratings, but for the Alliance of American Football!
